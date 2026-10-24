@@ -1,0 +1,134 @@
+{
+  "lastUpdated": "2026-10-23",
+  "agency": {
+    "brandName": "Potomac Family & Luxury Travel",
+    "advisorFirstName": "Patrick",
+    "title": "Fora Certified Travel Advisor • Turks & Caicos, Baha Mar, Atlantis & Moon Palace Specialist",
+    "location": "Bethesda, MD • Washington DC Metro"
+  },
+  "affiliateConfig": {
+    "welcomePickupsUrl": "https://www.book-online-transfers.com/en/fora-travel-27771"
+  },
+  "liveDeals": [
+    {
+      "id": "tci-beaches-777",
+      "category": "turks-caicos",
+      "badge": "WEEKLY 7-7-7 WEDNESDAY PROGRAM",
+      "urgency": "New suite list every Wednesday — ask for this week's",
+      "resort": "Beaches Turks & Caicos (+ Grace Bay family resorts)",
+      "location": "Grace Bay, Providenciales (PLS)",
+      "headline": "Weekly 7-7-7 Promo: Extra 7% Off Select Suites, Released Every Wednesday",
+      "summary": "Sandals & Beaches publish a new 7-7-7 list to advisors each Wednesday. We check your dates and suite against every new list and reprice when eligible. Prefer something beyond Beaches? We also plan Grace Bay family villas and condo-style resorts.",
+      "eligibleSuites": [
+        "Eligible suite categories change weekly (ask for current list)",
+        "Butler & Concierge family suites at Beaches Turks & Caicos",
+        "Other Grace Bay family resorts: multi-bedroom condo suites & villas"
+      ],
+      "travelWindows": "Varies by weekly list",
+      "vipPerks": [
+        "Weekly 7-7-7 list monitoring against your booking",
+        "Help transferring an eligible direct booking (not yet paid in full)",
+        "Typical advisor perks, vary by date: room-assignment advocacy, connecting-room requests"
+      ],
+      "sampleSavings": "7% off eligible suites when they appear on the weekly list",
+      "sourceNote": "Sandals/Beaches 7-7-7 advisor bulletins (Fora inbox)",
+      "brandKey": "beaches-tc"
+    },
+    {
+      "id": "baha-mar-perks",
+      "category": "bahamas",
+      "badge": "LUXURY PERK PROGRAMS",
+      "urgency": "Typical advisor perks, vary by date",
+      "resort": "Baha Mar — Grand Hyatt, Rosewood & SLS",
+      "location": "Cable Beach, Nassau (NAS)",
+      "headline": "Book Baha Mar Through an Advisor for Program Perks at Comparable Rates",
+      "summary": "No current Baha Mar supplier promo in our inbox this week. Booking through Fora's preferred programs (e.g., Hyatt Privé at Grand Hyatt, Rosewood Elite at Rosewood) typically adds amenities at rates comparable to booking direct.",
+      "eligibleSuites": [
+        "Grand Hyatt: family-friendly rooms & suites near Baha Bay",
+        "Rosewood: suites & residences for multi-gen families",
+        "SLS: adult-leaning, ideal for parents' getaways"
+      ],
+      "travelWindows": "Year-round (subject to availability)",
+      "vipPerks": [
+        "Typical advisor perks, vary by date: daily breakfast for two",
+        "Typical: property/resort credit per stay",
+        "Typical: upgrade & early/late check-out when available"
+      ],
+      "sampleSavings": "Perks vary by program, rate and dates",
+      "sourceNote": "No current promo in inbox — general program perks only",
+      "brandKey": "baha-mar"
+    },
+    {
+      "id": "atlantis-perks",
+      "category": "bahamas",
+      "badge": "THE COVE TRANSFORMATION • BEACH CLUB 2027",
+      "urgency": "Typical advisor perks, vary by date",
+      "resort": "Atlantis Paradise Island — The Reef, The Royal & The Cove",
+      "location": "Paradise Island, Nassau (NAS)",
+      "headline": "Choosing the Right Atlantis Tower — Plus News on The Cove's Reimagining",
+      "summary": "Per Atlantis' Aug 2026 advisor update, The Cove is reimagining every ocean suite, shared space and pool, with a new Beach Club in 2027. No current rate promo in our inbox; we compare towers for your family and add any available advisor amenities.",
+      "eligibleSuites": [
+        "The Reef: condo-style suites with kitchenettes (great for families)",
+        "The Royal: central, closest to Aquaventure & dining",
+        "The Cove: all-suite, upscale; ask about renovation timing"
+      ],
+      "travelWindows": "Year-round; Cove renovation phases through 2027",
+      "vipPerks": [
+        "Typical advisor perks, vary by date (e.g., Virtuoso / Fora Reserve where eligible)",
+        "Tower & room-type matching for your kids' ages",
+        "Renovation-timing check for The Cove"
+      ],
+      "sampleSavings": "Perks vary by tower, rate and dates",
+      "sourceNote": "Atlantis Travel Advisor Edition email (Aug 13, 2026)",
+      "brandKey": "atlantis"
+    },
+    {
+      "id": "moon-palace-palace-pro",
+      "category": "mexico",
+      "badge": "PALACE PRO • LAST OFFER CLOSED SEP 29",
+      "urgency": "Ask for the current Palace offer",
+      "resort": "Moon Palace Cancún, The Grand at Moon Palace & Moon Palace Punta Cana",
+      "location": "Cancún (CUN) & Punta Cana (PUJ)",
+      "headline": "Palace Resorts Credit & Kids-Stay Offers — We Track Each New Release",
+      "summary": "The most recent Palace offer in our inbox (Fall sale: up to 45% off, $500 resort credit, airport transfers, free stays for kids & teens) closed for booking Sep 29, 2026. Palace releases new offers regularly; we'll quote whatever is current for your dates.",
+      "eligibleSuites": [
+        "The Grand at Moon Palace: larger suites, more family space",
+        "Moon Palace Cancún: classic family favorite, kids' club & water park",
+        "Moon Palace Punta Cana: Dominican Republic option"
+      ],
+      "travelWindows": "Last offer stays: through Dec 23, 2027 (booking window closed)",
+      "vipPerks": [
+        "Resort credit explained & applied correctly (when included in the offer)",
+        "Airport transfers & kids/teens stay offers when available",
+        "Typical advisor perks, vary by date: room-location requests"
+      ],
+      "sampleSavings": "Depends on the current Palace offer",
+      "sourceNote": "Palace PRO Agents email (Sep 23, 2026)",
+      "brandKey": "moon-palace"
+    },
+    {
+      "id": "also-book-disney-mexico",
+      "category": "also",
+      "badge": "ALSO BOOK",
+      "urgency": "Secondary services",
+      "resort": "Disney Cruise Line, Universal Orlando & Riviera Maya (Paradisus)",
+      "location": "Orlando / Port Canaveral & Riviera Maya",
+      "headline": "Also Book: Disney Cruises, Universal Split-Stays & Riviera Maya Family Concierge",
+      "summary": "Outside our four specialties we also plan Disney cruises (incl. Concierge), Universal Orlando pre-cruise stays with connecting-room requests, and Paradisus Playa del Carmen Family Concierge.",
+      "eligibleSuites": [
+        "Disney Cruise Line Concierge & verandah staterooms",
+        "Universal Orlando hotels (connecting-room requests)",
+        "Paradisus Playa del Carmen Family Concierge suites"
+      ],
+      "travelWindows": "Year-round",
+      "vipPerks": [
+        "Typical advisor perks, vary by date",
+        "Deadline & booking-window management",
+        "Transfers & excursions via our partner links"
+      ],
+      "sampleSavings": "Varies",
+      "sourceNote": "General services",
+      "brandKey": "disney-cruise"
+    }
+  ]
+}
