@@ -86,7 +86,7 @@
       const email = document.getElementById("issue-email").value.trim();
       const banner = document.getElementById("issue-sub-confirm");
       try {
-        const res = await fetch("https://formsubmit.co/ajax/FORMSUBMIT_ALIAS", {
+        const res = await fetch("https://formsubmit.co/ajax/6a68db661834f2a60f8201f7d6f42dc2", {
           method: "POST",
           headers: { "Content-Type": "application/json", Accept: "application/json" },
           body: JSON.stringify({ _subject: "New newsletter subscriber", _captcha: "false", form_type: "newsletter", firstName, email, source: "newsletter-issue-1" })

@@ -1,6 +1,6 @@
 // Static hosting: forms post to FormSubmit (https://formsubmit.co), which emails each submission.
-// Replace FORMSUBMIT_ALIAS with the hashed alias from the FormSubmit activation email.
-const FORM_ENDPOINT = "https://formsubmit.co/ajax/FORMSUBMIT_ALIAS";
+// Hashed FormSubmit alias (keeps the destination email out of page source).
+const FORM_ENDPOINT = "https://formsubmit.co/ajax/6a68db661834f2a60f8201f7d6f42dc2";
 /**
  * Potomac Family & Luxury Travel — Interactive Lead, Newsletter & Affiliate Engine
  * Advisor: Patrick • Fora Certified Travel Advisor
