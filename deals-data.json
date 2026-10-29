@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23",
+  "lastUpdated": "2026-10-29",
   "agency": {
     "brandName": "Potomac Family & Luxury Travel",
     "advisorFirstName": "Patrick",
@@ -13,49 +13,50 @@
     {
       "id": "tci-beaches-777",
       "category": "turks-caicos",
-      "badge": "WEEKLY 7-7-7 WEDNESDAY PROGRAM",
-      "urgency": "New suite list every Wednesday — ask for this week's",
+      "badge": "THIS WEEK'S 7-7-7 • BOOK BY NOV 3, 2026",
+      "urgency": "Booking window Oct 28 – Nov 3, 2026",
       "resort": "Beaches Turks & Caicos (+ Grace Bay family resorts)",
       "location": "Grace Bay, Providenciales (PLS)",
-      "headline": "Weekly 7-7-7 Promo: Extra 7% Off Select Suites, Released Every Wednesday",
-      "summary": "Sandals & Beaches publish a new 7-7-7 list to advisors each Wednesday. We check your dates and suite against every new list and reprice when eligible. Prefer something beyond Beaches? We also plan Grace Bay family villas and condo-style resorts.",
+      "headline": "This Week's 7-7-7: Extra 7% Off Four Beaches Turks & Caicos Suites (Book by Nov 3)",
+      "summary": "This week's Sandals & Beaches 7-7-7 list (booking window Oct 28 – Nov 3, 2026) includes four Beaches Turks & Caicos suite categories at an extra 7% off, including the Italian Oceanview Penthouse Two-Bedroom Butler Family Suite. Travel dates run in windows from Oct 30, 2026 into 2028 (blackouts apply, 3-night minimum). Combinable with standard resort offers. Not on the list? A new one comes out every Wednesday.",
       "eligibleSuites": [
-        "Eligible suite categories change weekly (ask for current list)",
-        "Butler & Concierge family suites at Beaches Turks & Caicos",
-        "Other Grace Bay family resorts: multi-bedroom condo suites & villas"
+        "Key West Oceanview One Bedroom Concierge Suite",
+        "Italian Oceanview Penthouse Two Bedroom Butler Family Suite",
+        "Key West One Bedroom Concierge Villa Suite",
+        "Treasure Beach Walkout Concierge Suite"
       ],
-      "travelWindows": "Varies by weekly list",
+      "travelWindows": "Select windows Oct 30, 2026 – Nov 20, 2028 (e.g., Jan 1 – Feb 6, 2027; Apr 24 – May 22, 2027; Aug 7 – Nov 2, 2027); holiday & spring-break blackouts; 3-night minimum",
       "vipPerks": [
-        "Weekly 7-7-7 list monitoring against your booking",
+        "We check your dates against each week's travel windows",
         "Help transferring an eligible direct booking (not yet paid in full)",
         "Typical advisor perks, vary by date: room-assignment advocacy, connecting-room requests"
       ],
-      "sampleSavings": "7% off eligible suites when they appear on the weekly list",
-      "sourceNote": "Sandals/Beaches 7-7-7 advisor bulletins (Fora inbox)",
+      "sampleSavings": "Extra 7% off listed suites, on top of standard resort offers",
+      "sourceNote": "Sandals & Beaches 7-7-7 Wednesday Promotion email (Oct 28, 2026)",
       "brandKey": "beaches-tc"
     },
     {
       "id": "baha-mar-perks",
       "category": "bahamas",
-      "badge": "LUXURY PERK PROGRAMS",
-      "urgency": "Typical advisor perks, vary by date",
+      "badge": "HYATT PRIVÉ OFFER • ADVISOR EARLY ACCESS OCT 30",
+      "urgency": "Book Oct 30 – Dec 8, 2026 for stays through Apr 30, 2027",
       "resort": "Baha Mar — Grand Hyatt, Rosewood & SLS",
       "location": "Cable Beach, Nassau (NAS)",
-      "headline": "Book Baha Mar Through an Advisor for Program Perks at Comparable Rates",
-      "summary": "No current Baha Mar supplier promo in our inbox this week. Booking through Fora's preferred programs (e.g., Hyatt Privé at Grand Hyatt, Rosewood Elite at Rosewood) typically adds amenities at rates comparable to booking direct.",
+      "headline": "New Hyatt Privé Offer: Save Up to 25% Plus Privé Perks — Ask About Grand Hyatt Baha Mar",
+      "summary": "Hyatt's upcoming Hyatt Privé global offer saves eligible World of Hyatt members up to 25% (non-members up to 20%) and still includes Hyatt Privé benefits. Advisors get early access to book Oct 30 – Dec 8, 2026 (public booking opens Nov 3) for stays Oct 31, 2026 – Apr 30, 2027. We'll confirm whether Grand Hyatt Baha Mar participates for your dates. Rosewood and SLS: typical advisor perks, vary by date.",
       "eligibleSuites": [
         "Grand Hyatt: family-friendly rooms & suites near Baha Bay",
         "Rosewood: suites & residences for multi-gen families",
         "SLS: adult-leaning, ideal for parents' getaways"
       ],
-      "travelWindows": "Year-round (subject to availability)",
+      "travelWindows": "Stays Oct 31, 2026 – Apr 30, 2027 (Hyatt Privé offer); otherwise year-round",
       "vipPerks": [
-        "Typical advisor perks, vary by date: daily breakfast for two",
-        "Typical: property/resort credit per stay",
-        "Typical: upgrade & early/late check-out when available"
+        "Hyatt Privé benefits included with the member offer (participating hotels)",
+        "You keep earning World of Hyatt elite nights",
+        "Typical advisor perks, vary by date: breakfast, property credit, upgrade when available"
       ],
-      "sampleSavings": "Perks vary by program, rate and dates",
-      "sourceNote": "No current promo in inbox — general program perks only",
+      "sampleSavings": "Up to 25% off for World of Hyatt members (up to 20% non-members) at participating Hyatt Privé hotels",
+      "sourceNote": "Hyatt Privé advisor email via Fora DC chapter (Oct 27, 2026)",
       "brandKey": "baha-mar"
     },
     {
@@ -90,7 +91,7 @@
       "resort": "Moon Palace Cancún, The Grand at Moon Palace & Moon Palace Punta Cana",
       "location": "Cancún (CUN) & Punta Cana (PUJ)",
       "headline": "Palace Resorts Credit & Kids-Stay Offers — We Track Each New Release",
-      "summary": "The most recent Palace offer in our inbox (Fall sale: up to 45% off, $500 resort credit, airport transfers, free stays for kids & teens) closed for booking Sep 29, 2026. Palace releases new offers regularly; we'll quote whatever is current for your dates.",
+      "summary": "No new Palace Resorts offer in our inbox this week; the last one (up to 45% off, $500 resort credit, transfers, kids & teens stay free) closed Sep 29, 2026. Flying in? ALG Vacations' Early Black Friday sale (up to $800 off packages, book by Nov 19, 2026 for travel through Sep 30, 2027) may apply to Cancún and Punta Cana air + hotel packages; we'll check your dates.",
       "eligibleSuites": [
         "The Grand at Moon Palace: larger suites, more family space",
         "Moon Palace Cancún: classic family favorite, kids' club & water park",
@@ -103,7 +104,7 @@
         "Typical advisor perks, vary by date: room-location requests"
       ],
       "sampleSavings": "Depends on the current Palace offer",
-      "sourceNote": "Palace PRO Agents email (Sep 23, 2026)",
+      "sourceNote": "Palace PRO Agents email (Sep 23, 2026); ALG Vacations advisor update (Oct 26, 2026)",
       "brandKey": "moon-palace"
     },
     {
@@ -114,7 +115,7 @@
       "resort": "Disney Cruise Line, Universal Orlando & Riviera Maya (Paradisus)",
       "location": "Orlando / Port Canaveral & Riviera Maya",
       "headline": "Also Book: Disney Cruises, Universal Split-Stays & Riviera Maya Family Concierge",
-      "summary": "Outside our four specialties we also plan Disney cruises (incl. Concierge), Universal Orlando pre-cruise stays with connecting-room requests, and Paradisus Playa del Carmen Family Concierge.",
+      "summary": "Outside our four specialties we also plan Disney cruises (incl. Concierge), Universal Orlando pre-cruise stays with connecting-room requests, and Paradisus Playa del Carmen Family Concierge. New this week: Disney is advertising up to 35% off select 5+ night spring 2027 stays at Aulani in Hawaiʻi; ask us for eligible dates.",
       "eligibleSuites": [
         "Disney Cruise Line Concierge & verandah staterooms",
         "Universal Orlando hotels (connecting-room requests)",
@@ -127,7 +128,7 @@
         "Transfers & excursions via our partner links"
       ],
       "sampleSavings": "Varies",
-      "sourceNote": "General services",
+      "sourceNote": "Disney Destinations advisor email (Oct 27, 2026)",
       "brandKey": "disney-cruise"
     }
   ]
